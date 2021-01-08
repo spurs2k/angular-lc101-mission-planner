@@ -27,5 +27,8 @@ export class EquipmentComponent implements OnInit {
    ngOnInit() { }
 
    // Code your addItem function here:
+   addItem(equipmentItems) {
+
+   }
    
 }
